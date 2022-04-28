@@ -6,8 +6,6 @@ This is an Agri App which deals with everyday prices of agricultural commodities
 
 ### How to install
 
-```git clone "https://luv.com/gramodaya-app"```
-
 Create a .env file on the root path of this project,
 ######.env file
 ```
@@ -26,7 +24,7 @@ npm install
 - 1 Bag = 50 Kg
 
 ###### To run in development
-``` npm run dev````
+``` npm run dev```
 
 ##### To run test
 ```npm run test```
